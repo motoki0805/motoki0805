@@ -2,9 +2,7 @@
 
 1. I'm a web frontend and backend developer from Japan
 
-2. My favorites are React, TypeScript, Docker, LangChain,ShellScript
-
-![](https://github-readme-stats.vercel.app/api/top-langs?username=motoki0805)
+2. My favorites are Laravel , React
 
 ## Programming Languages
 
